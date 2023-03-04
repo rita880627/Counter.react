@@ -1,0 +1,34 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.count {
+  font-size: 18px;
+}
+
+button {
+  padding: 3px 5px;
+  color: purple;
+  background-color: rgb(194, 173, 212);
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  border: 1px solid purple;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+}
+
+.Async {
+  margin: 5px;
+}
+
+.Odd {
+  margin: 5px;
+}
